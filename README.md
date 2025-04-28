@@ -85,4 +85,4 @@ Todo o sistema foi desenvolvido manualmente, sem o uso de estruturas de dados pr
 
 # Apresentação em Vídeo
 
-O grupo elaborou um vídeo explicativo demonstrando o funcionamento do sistema, disponível no YouTube:  
+O grupo elaborou um vídeo explicativo demonstrando o funcionamento do sistema, disponível no YouTube: https://youtu.be/Tco5Ewg3b0s
